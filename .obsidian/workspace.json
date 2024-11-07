@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "456f1f910b599b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "c92e05b3982f7be0",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "bc6f8fc8aa26c568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/1. 微积分的本质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 微积分的本质"
+            },
+            "group": "f37c92fae1ec17dd"
+          }
+        ]
+      },
+      {
+        "id": "f18dac23cb00cabd",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "45676c166832d7c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/1. 微积分的本质.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 微积分的本质"
+            },
+            "group": "f37c92fae1ec17dd"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8e7394150f53e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf59b4eec13a0366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec34fadd3dd3977",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec229135066960cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ec01a20006e1f6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68fa84f9792e38a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a622d24be1d2c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bbca8a946c2205",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cpp Standard/C++ 23.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C++ 23"
+            }
+          },
+          {
+            "id": "9b7f79c41ff84a56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cpp Standard/C++ 23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C++ 23"
+            }
+          },
+          {
+            "id": "8d5f71fffe3ac1dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56c50adad6bc842f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculus/1. 微积分的本质.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. 微积分的本质"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc6f8fc8aa26c568",
+  "lastOpenFiles": [
+    "Calculus/images/circle area2.png",
+    "Calculus/1. 微积分的本质.md",
+    "Calculus/Calculus relates F1 to F2.md",
+    "Calculus/images/Integral of x^2.png",
+    "Calculus/images/fuction.png",
+    "Calculus/images/circle area.png",
+    "Calculus/images/Pasted image 20241107203209.png",
+    "Calculus/images/Pasted image 20241107203730.png",
+    "Calculus/images/Pasted image 20241107203009.png",
+    "Calculus/images",
+    "English Grammar/1.1 换一种方式理解词性.md",
+    "English Grammar/1.2 介词.md",
+    "English Grammar/0 Overview.md",
+    "Pasted image 20241107203730.png",
+    "Pasted image 20241107203009.png",
+    "Pasted image 20241107203209.png",
+    "Recent Daily.md",
+    "CS.md",
+    "Git-Experiment.md",
+    "Notes.md",
+    "CMake.md",
+    "cpp in vscode(mac linux clang and gcc).md",
+    "Eng.md",
+    "Calculus",
+    "English Grammar",
+    "Untitled.md",
+    "DataStructure/Getting Started.md",
+    "DataStructure",
+    "Cpp Standard/C++ 98.md",
+    "Python/README.md",
+    "Python/Function.md",
+    "Cpp.md",
+    "Cpp Standard/C++ 23.md",
+    "Cpp Standard/C++ 11.md",
+    "Cpp Standard/C++ 14.md",
+    "Cpp Standard/C++ 17.md",
+    "Cpp Standard/C++ 20.md",
+    "Cpp Standard",
+    "Compiler.md",
+    "Temp.md",
+    "Python",
+    "Untitled 2/Untitled",
+    "Untitled 2",
+    "data struct work/images",
+    "data struct work"
+  ]
+}
