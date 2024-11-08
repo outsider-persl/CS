@@ -10,6 +10,7 @@
 - git branch dev
 - git checkout dev 
 - `coding and work`
+git push -
 - git push origin dev
 3. git merge branche
 - git checkout master
