@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c92e05b3982f7be0",
+        "id": "9296d0bf971d4b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6f8fc8aa26c568",
+            "id": "df7c23adb516c077",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recent Daily.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Recent Daily"
-            }
-          },
-          {
-            "id": "5fa7bb8960619fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/1. 微积分的本质.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 微积分的本质"
-            }
-          },
-          {
-            "id": "be108c34301ee420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/1. 微积分的本质.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 微积分的本质"
-            }
-          },
-          {
-            "id": "bbadfed2f9cc5579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/1.线性组合、长成空间、和基.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.线性组合、长成空间、和基"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linear Algebra/1.线性组合、长成空间、和基.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 1.线性组合、长成空间、和基"
+              "title": "Outline"
             }
           }
         ],
@@ -197,6 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -205,53 +157,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbadfed2f9cc5579",
+  "active": "df7c23adb516c077",
   "lastOpenFiles": [
-    "Calculus/2.导数的悖论.md",
-    "Linear Algebra/1.线性组合、长成空间、和基.md",
-    "Linear Algebra/1.线性组合、长成空间、和基md",
-    "Calculus/images/line.png",
-    "Calculus/images/image.png",
-    "Calculus/images/sliceline.png",
-    "Calculus/images/image copy.png",
-    "Calculus/images/ds-dt.png",
-    "Calculus/ds-dt.png",
-    "ds-dt.png",
-    "Pasted image 20241118133953.png",
-    "Calculus/1. 微积分的本质.md",
-    "Untitled.md",
-    "Calculus/Calculus relates F1 to F2.md",
-    "Homework.md",
-    "Recent Daily.md",
-    "Git-Experiment.md",
-    "Cpp.md",
-    "CMake.md",
-    "English Grammar/2.1 简单句.md",
-    "Calculus/images/circle area2.png",
-    "Calculus/images/Integral of x^2.png",
-    "Calculus/images",
-    "English Grammar/1.1 换一种方式理解词性.md",
-    "English Grammar/1.2 介词.md",
-    "English Grammar/0 Overview.md",
     "CS.md",
+    "Calculu",
+    "trash/English Grammar/2.1 简单句.md",
+    "trash/English Grammar/1.2 介词.md",
+    "trash/English Grammar/1.1 换一种方式理解词性.md",
+    "trash/English Grammar/0 Overview.md",
+    "trash/English Grammar",
+    "trash/Calculus/images/sliceline.png",
+    "trash/Calculus/images/line.png",
+    "trash/Calculus/images/ds-dt.png",
+    "trash/Calculus/images/circle area2.png",
+    "trash/Calculus/images/circle area.png",
+    "trash/Calculus/images/Integral of x^2.png",
+    "trash/Calculus/images",
+    "trash/Calculus/Calculus relates F1 to F2.md",
+    "trash/Calculus/2.导数的悖论.md",
+    "trash/Calculus/1. 微积分的本质.md",
+    "trash/Calculus",
+    "trash/review lib/math/img/Derivative formula.png",
+    "trash/review lib/math/Math.md",
+    "trash/review lib/dbs/数据库复习题.docx",
+    "trash/review lib/dbs/选填题知识点.pdf",
+    "trash/review lib/math/等价无穷小.md",
+    "trash/review lib/math/img",
+    "trash/review lib/math/calculus.pdf",
+    "trash/review lib/dbs/范式级别判断.pdf",
+    "trash/review lib/ds/数据结构复习题库.docx",
+    "trash/review lib/ds/DataStructure.md",
+    "trash/review lib/dbs/note.md",
+    "trash/review lib/marks.md",
+    "trash/Recent Daily.md",
+    "trash/Notes.md",
+    "trash/Cpp.md",
+    "trash/CMake.md",
+    "CMake.md",
+    "Cpp.md",
     "Notes.md",
+    "Recent Daily.md",
+    "review lib/marks.md",
+    "Git-Experiment.md",
+    "E-R图.md",
     "cpp in vscode(mac linux clang and gcc).md",
-    "Eng.md",
-    "Calculus",
-    "English Grammar",
-    "DataStructure/Getting Started.md",
-    "DataStructure",
-    "Cpp Standard/C++ 98.md",
-    "Python/README.md",
-    "Python/Function.md",
-    "Cpp Standard/C++ 23.md",
-    "Cpp Standard/C++ 11.md",
-    "Cpp Standard/C++ 14.md",
-    "Cpp Standard/C++ 17.md",
-    "Cpp Standard",
-    "Python",
-    "Untitled 2/Untitled",
-    "Untitled 2",
-    "data struct work/images"
+    "review lib/marks/1.png",
+    "review lib/marks/2022-12-06 102149.png",
+    "review lib/marks/2022-12-06 102241.png"
   ]
 }
